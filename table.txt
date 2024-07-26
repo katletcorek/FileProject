@@ -1,0 +1,7 @@
+Function name    |   Worked time   | arguments   |   keyword arguments   | result  
+sum                 |    2024-07-24 19:44:31.624387   |  1,2    |     |  3 
+divide              |    2024-07-24 19:44:31.625386   |      |   a=1,b=2  |  0.5 
+sum                 |    2024-07-24 19:45:30.163681   |  1,2    |     |  3 
+divide              |    2024-07-24 19:45:30.163681   |      |   a=5,b=0  |  division by zero 
+sum                 |    2024-07-24 19:53:34.610721   |  1.2    |     |  3 
+divide              |    2024-07-24 19:53:34.611738   |      |   a=5,b=0  |  division by zero 
